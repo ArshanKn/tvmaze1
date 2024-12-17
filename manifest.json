@@ -1,0 +1,43 @@
+{
+    "theme_color": "#ffffff",
+    "background_color": "#000000",
+    "icons": [
+      {
+        "purpose": "maskable",
+        "sizes": "512x512",
+        "src": "icons/icon512_maskable.png",
+        "type": "image/png"
+      },
+      {
+        "purpose": "any",
+        "sizes": "512x512",
+        "src": "icons/icon512_rounded.png",
+        "type": "image/png"
+      }
+    ],
+    "orientation": "any",
+    "start_url": "https://arshankn.github.io/tvmaze4/",
+    "scope": "/",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "en-GB",
+    "description": "Search for thousands of TV shows using the TV Maze api",
+    "name": "TV Shows at TV Maze",
+    "short_name": "TV Maze",
+    "screenshots": [
+    {
+      "src": "screenshots/screenshot2.png",
+      "sizes": "1276x910",
+      "type": "image/png",
+      "form_factor": "wide",
+      "purpose": "any"
+    },
+    {
+      "src": "screenshots/screenshot1.png",
+      "sizes": "714x920",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+ 
+  }
